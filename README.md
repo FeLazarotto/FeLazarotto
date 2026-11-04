@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Ciência de Dados | Python | Machine Learning | Visão Computacional | Agentes de IA
 
-Engenheiro e pesquisador focado em **Ciência de Dados** e **Inteligência Artificial**, residente em **Florianópolis, SC - Brasil** 📍. Atualmente desenvolvendo projetos práticos de **Machine Learning** e **Visão Computacional** no programa SCTEC / SENAI-SC.
+Estudante de **Ciência de Dados** e **Inteligência Artificial**. Atualmente desenvolvendo projetos práticos de **Machine Learning** e **Visão Computacional** no programa SCTEC / SENAI-SC.
 
 ---
 
@@ -10,7 +10,7 @@ Engenheiro e pesquisador focado em **Ciência de Dados** e **Inteligência Artif
 
 - 🔭 **Áreas de Atuação:** Ciência de Dados, Aprendizado de Máquina, Visão Computacional e Agentes de IA.
 - 🎓 **Formação & Projetos:** Soluções desenvolvidas em Python e Jupyter Notebooks no curso de Machine Learning e Visão Computacional (SCTEC / SENAI-SC).
-- 📍 **Localização:** Florianópolis, SC (UTC-3).
+- 📍 **Localização:** Florianópolis, SC.
 - 💬 **Pode me perguntar sobre:** Python, algoritmos de Aprendizado de Máquina, processamento de imagens e análise exploratória de dados.
 
 ---
@@ -37,16 +37,6 @@ Engenheiro e pesquisador focado em **Ciência de Dados** e **Inteligência Artif
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeLazarotto&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeLazarotto&layout=compact&theme=radial" alt="Linguagens mais usadas" height="170"/>
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felazarotto)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeLazarotto)
